@@ -1,0 +1,4 @@
+interface:
+  display_name: "Common Code Review"
+  short_description: "Evidence-based code reviews across languages"
+  default_prompt: "Use $common-code-review to review this change and report actionable findings with file and line evidence."
